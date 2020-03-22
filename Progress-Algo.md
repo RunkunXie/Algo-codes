@@ -21,8 +21,8 @@
 
 ### 4. Advanced Design and Analysis Techniques
 
- - [ ] 15. Dynamic Programming
- - [ ] 16. Greedy Algorithms
+ - [x] 15. Dynamic Programming
+ - [x] 16. Greedy Algorithms
  - [ ] 17. Amorized Analysis
 
 ### 5. Advanced Data Structures

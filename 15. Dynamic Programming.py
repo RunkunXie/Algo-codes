@@ -7,7 +7,7 @@ Approaches
 
 Elements:
 1. Optimal Substructure
-2. Overlapping Subproblems
+2. Overlapping Sub-problems
 
 Questions
 1. Rod-Cutting
