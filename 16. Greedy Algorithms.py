@@ -9,5 +9,6 @@ Compare:
 1. Integral(0-1) Knapsack - DP
 2. Fractional Knapsack - Greedy
 
-
+Problems:
+1. Huffman Codes
 """
