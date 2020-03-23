@@ -1,6 +1,7 @@
 from typing import List
 import random
 
+
 class Solution:
 
     def quickSort(self, nums: List[int]) -> List[int]:
@@ -10,14 +11,16 @@ class Solution:
         if len(nums) == 1:
             return nums
 
-        p = self.partition(nums, 0, len(nums)-1)
+        p = self.partition(nums, 0, len(nums) - 1)
 
-        return self.quickSort(nums[:p]) + [nums[p]] + self.quickSort(nums[p+1:])
+        return self.quickSort(nums[:p]) + [nums[p]] + self.quickSort(nums[p + 1:])
 
     @staticmethod
     def partition(nums, l, r) -> int:
+        # select last element as flag
         flag = nums[r]
 
+        # partition by flag
         i = l - 1
         j = l
         while j < r:
@@ -60,10 +63,12 @@ class Solution:
 
     @staticmethod
     def randomizedPartition(nums, l, r) -> int:
-        flag_idx = random.randrange(l, r+1)
+        # select flag randomly
+        flag_idx = random.randrange(l, r + 1)
         nums[flag_idx], nums[r] = nums[r], nums[flag_idx]
         flag = nums[r]
 
+        # partition by flag
         i = l - 1
         j = l
         while j < r:
