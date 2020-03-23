@@ -23,7 +23,7 @@
 
  - [x] 15. Dynamic Programming
  - [x] 16. Greedy Algorithms
- - [ ] 17. Amorized Analysis
+ - [x] 17. Amorized Analysis
 
 ### 5. Advanced Data Structures
 
