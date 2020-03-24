@@ -31,7 +31,7 @@
 
 ### 6. Graph Algorithms
 
- - [ ] 22. Elementary Graph Algorithms
+ - [x] 22. Elementary Graph Algorithms
  - [ ] 23. Minimum Spaning Trees
  - [ ] 24. Single-Source Shortedt Paths
  - [ ] 25. All-Pairs Shortest Paths
