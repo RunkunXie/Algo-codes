@@ -1,6 +1,6 @@
 ### 1. Fundations
 
- - [ ] 3. Growth of Functions
+ - [x] 3. Growth of Functions
  - [x] 4. Divide and Conquer
  - [ ] 5. Probabilistic Analysis and Ramdomized Algorithms
 
@@ -32,12 +32,12 @@
 ### 6. Graph Algorithms
 
  - [x] 22. Elementary Graph Algorithms
- - [ ] 23. Minimum Spaning Trees
- - [ ] 24. Single-Source Shortedt Paths
- - [ ] 25. All-Pairs Shortest Paths
+ - [x] 23. Minimum Spaning Trees
+ - [x] 24. Single-Source Shortedt Paths
+ - [x] 25. All-Pairs Shortest Paths
  - [ ] 26. Maximum Flow
 
-### 7. Others
+### 7. Others (Partially Finished)
 
- - [ ] 34. NP-Completeness
- - [ ] 35. Approximation Algorithms
+ - [x] 34. NP-Completeness
+ - [x] 35. Approximation Algorithms
