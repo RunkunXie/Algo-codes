@@ -64,7 +64,7 @@ def dPartition(nums, l, r) -> int:
 
     return i
 
-
+"""worst time n"""
 def dSelect(nums, k):
     if len(nums) == 0:
         return None
